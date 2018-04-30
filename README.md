@@ -1,5 +1,5 @@
 
-# Sci Chicken
+## Sci Chicken
 
 大吉大利，天天吃鸡#
 内部版#
