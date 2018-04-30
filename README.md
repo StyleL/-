@@ -1,12 +1,12 @@
 
 # Sci Chicken
 
-        # 大吉大利，天天吃鸡
-        # 内部版
-	# By：Style
-        # 4.30修复部分bug
-	# 目前飞机和车辆跟随还在修复当中
-	# 添加一键开启战斗模式,这样看人更舒服	
+         大吉大利，天天吃鸡
+         内部版
+	 By：Style
+         4.30修复部分bug
+	 目前飞机和车辆跟随还在修复当中
+	 添加一键开启战斗模式,这样看人更舒服	
 
 A PUBG pcap playback system that does not hog CPU/GPU, works with version 3.7.33
 因地图服务器出现问题，所以改成本地地图版。
